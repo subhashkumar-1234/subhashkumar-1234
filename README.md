@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Subhash Kumar</h1>
 <h2 align="left">Web Developer</h2>
-<h4 align="left">Hello I'm Subhash, I'm a front-end developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is ( React.js ).</h4>
+<h4 align="left">Hello I'm Subhash, I'm a Web developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is ( React.js ).</h4>
 
 <ul>
 <li>I’m From in Patna, Bihar, India</li>
